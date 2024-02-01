@@ -26,7 +26,7 @@ public class temperature_Con{
         System.out.println("Thankyou,Goodbyy");
         break;
       }
-        try{
+         try{
             int n = Integer.parseInt(input);
             System.out.println("Enter temprature to be convert");
             double tem = sc.nextDouble();
@@ -44,7 +44,7 @@ public class temperature_Con{
             {
              System.out.println("Sorry! you enterd wrong key word");
             }
-        }
+         }
       catch(NumberFormatException e)
       {
           e.getStackTrace();
