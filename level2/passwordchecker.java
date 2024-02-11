@@ -60,7 +60,7 @@ public class passwordchecker {
        }
        else
        {
-        System.out.println("your Passwrd is very week make sure it must be 8 character" + "/"+"and  atleast 1 uppercase ,1 lowercase,1digita and 1 special character");
+        System.out.println("your Passwrd is very week make sure it must be 8 character and  atleast 1 uppercase ,1 lowercase,1digita and 1 special character");
        }
 
     }
